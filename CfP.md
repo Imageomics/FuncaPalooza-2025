@@ -6,6 +6,16 @@ The Imageomics Institute is hosting a 3.5-day workshop offering a unique opportu
 
 The event will take place August 18-21 at The Ohio State University in Columbus, OH, USA. To apply to participate, please fill out the [FuncaPalooza 2025 Application for Participation](https://forms.gle/PaL27To4AP41KMJB6) by the end of June 23, 2025. Funds to assist with travel expenses are available but limited, as is space. We expect to notify applicants about acceptance by July 7, 2025.
 
+## Contents:
+- [About the event](#about-the-event)
+- [Motivation](#motivation)
+- [Goals & Desired Outcomes](#goals--desired-outcomes)
+- [Scope](#scope)
+- [Date and Location](#date-and-location)
+- [Who should participate](#who-should-participate)
+- [About the Imageomics Institute](#about-the-imageomics-institute)
+- [Organizing Team](#organizing-team)
+
 ## About the event
 
 FuncaPalooza 2025 will bring together an interdisciplinary group interested in using AI/ML to extract functional traits from image data. Traits derivable from images might include, but are not limited to, morphological attributes (e.g., beak shape, coloration, or patterning), phenological traits (e.g., timing of flowering, leaf-out dates), or trophic characteristics (e.g., diet type). This event offers a hands-on, collaborative experience. It is not intended to be a competitive hackathon or a conference. We expect participants to include AI/ML researchers, data scientists, ecologists, evolutionary biologists, data or specimen curators, tool developers, and knowledge engineers. Participants will self-organize into small groups to work hands-on and collaboratively on self-selected targets and outcomes towards the motivations and goals of the event. The process of self-organizing and choosing work targets will be facilitated, but every participant will play an equally active role in making the event a successful, rewarding experience. We aim for an event that will give everyone ample opportunities to contribute their skills and experience, acquire new knowledge, increase technological awareness, and find potential new collaborators. Although the event is primarily designed to create code, datasets, workflows and other tangible outcomes, the format will leave room for networking and participant-driven exchange of know-how and skills.
@@ -25,7 +35,7 @@ We will approach this question with recently developed AI/ML tools. For example,
 
 We hope workshop participants will bring data to work with, questions that may be answered about functional traits, and/or ML tools for quantifying functional traits from images. Most of all, we ask participants to bring their enthusiasm for and curiosity about applying AI/ML tools to explore questions relating to morphological traits and biological discovery!
 
-### Goals/Desired Outcomes
+### Goals & Desired Outcomes
 
 We aim to facilitate outcomes that address the potential of and need for ML-ready biological image datasets and workflows to extract information about functional traits, including (but not limited to!) the following:
 
