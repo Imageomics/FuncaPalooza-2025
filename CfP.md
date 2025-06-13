@@ -35,7 +35,7 @@ We will approach this question with recently developed AI/ML tools. For example,
 
 We hope workshop participants will bring data to work with, questions that may be answered about functional traits, and/or ML tools for quantifying functional traits from images. Most of all, we ask participants to bring their enthusiasm for and curiosity about applying AI/ML tools to explore questions relating to morphological traits and biological discovery!
 
-### Goals & Desired Outcomes
+## Goals & Desired Outcomes
 
 We aim to facilitate outcomes that address the potential of and need for ML-ready biological image datasets and workflows to extract information about functional traits, including (but not limited to!) the following:
 
@@ -44,13 +44,13 @@ We aim to facilitate outcomes that address the potential of and need for ML-read
 * A peer-reviewed publication describing best practices for extracting morphological traits from images and feeding into AI/ML.  
 * [FAIR](https://www.go-fair.org/fair-principles/)/[CARE](https://www.gida-global.org/care)\-adhering and ML-ready datasets, including in particular image and video datasets suitable for answering functional trait-based questions. Ideally, these would be paired with a model or benchmarking results.
 
-### Scope
+## Scope
 
 We are keeping the scope of possible projects focused on functional trait-based exploration (morphological traits that are visible in images or video) to maximize the limited time of the workshop. That notwithstanding, we expect the event to connect people with biological science-focused goals. For instance biologists interested in asking biological questions with AI/ML tools or AI/ML researchers interested in ecological or evolutionary questions for which to develop algorithms and models.
 
 We generally expect datasets curated at or for the event, as well as tools or methods developed, to satisfy [FAIR principles](https://www.go-fair.org/fair-principles/), and where applicable also [CARE principles](https://doi.org/10.1038/s41597-021-00892-0). For those bringing datasets, we will reach out ahead of the event to help ensure their readiness for question-answering. Here are some examples of curated datasets on [beetles](https://huggingface.co/datasets/imageomics/2018-NEON-beetles), [fish](https://huggingface.co/datasets/imageomics/fish-vista).
 
-### Date and Location
+## Date and Location
 
 The event will be held August 18-21, 2025, at the Imageomics Institute’s headquarters at The Ohio State University, [Pomerene Hall](https://tdai.osu.edu/pomerene-hall), in Columbus, OH.
 
